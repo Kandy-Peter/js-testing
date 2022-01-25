@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1643114327512" clover="3.2.0">
-  <project timestamp="1643114327513" name="All files">
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
+<coverage generated="1643138035637" clover="3.2.0">
+  <project timestamp="1643138035638" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="8" coveredconditionals="8" methods="8" coveredmethods="8" elements="35" coveredelements="35" complexity="0" loc="19" ncloc="19" packages="1" files="4" classes="4"/>
+    <file name="calculator.js" path="C:\Users\User\Desktop\cours_projects\js-testing\calculator.js">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="19" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="C:\Users\User\Desktop\cours_projects\js-testing\capitalize.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="C:\Users\User\Desktop\cours_projects\js-testing\reverseString.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="10" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="stringLength.js" path="C:\Users\User\Desktop\cours_projects\js-testing\stringLength.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
   </project>
 </coverage>

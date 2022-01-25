@@ -1,4 +1,3 @@
-const { expect } = require('@jest/globals');
 const stringLength = require('./stringLength');
 
 test('check string length for string', () => {

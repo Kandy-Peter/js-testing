@@ -4,7 +4,7 @@
   "description": "for this repo I'll do some practices(exercices) using Jest for testing my javscript code.",
   "main": "main.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
